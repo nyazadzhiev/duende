@@ -1,0 +1,576 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin\\MyProject.Admin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\MyProject.Admin.EntityFramework.MySql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\MyProject.Admin.EntityFramework.MySql.csproj",
+        "projectName": "MyProject.Admin.EntityFramework.MySql",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\MyProject.Admin.EntityFramework.MySql.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\MyProject.Admin.EntityFramework.PostgreSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\MyProject.Admin.EntityFramework.PostgreSQL.csproj",
+        "projectName": "MyProject.Admin.EntityFramework.PostgreSQL",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\MyProject.Admin.EntityFramework.PostgreSQL.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj",
+        "projectName": "MyProject.Admin.EntityFramework.Shared",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Skoruba.AuditLogging.EntityFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Skoruba.Duende.IdentityServer.Admin.EntityFramework.Configuration": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\MyProject.Admin.EntityFramework.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\MyProject.Admin.EntityFramework.SqlServer.csproj",
+        "projectName": "MyProject.Admin.EntityFramework.SqlServer",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\MyProject.Admin.EntityFramework.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.Shared\\MyProject.Admin.EntityFramework.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin\\MyProject.Admin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin\\MyProject.Admin.csproj",
+        "projectName": "MyProject.Admin",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin\\MyProject.Admin.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\MyProject.Admin.EntityFramework.MySql.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.MySql\\MyProject.Admin.EntityFramework.MySql.csproj"
+              },
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\MyProject.Admin.EntityFramework.PostgreSQL.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.PostgreSQL\\MyProject.Admin.EntityFramework.PostgreSQL.csproj"
+              },
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\MyProject.Admin.EntityFramework.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Admin.EntityFramework.SqlServer\\MyProject.Admin.EntityFramework.SqlServer.csproj"
+              },
+              "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\MyProject.Shared.csproj": {
+                "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\MyProject.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Duende.IdentityServer.EntityFramework": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Skoruba.Duende.IdentityServer.Admin.BusinessLogic": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Identity": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Skoruba.Duende.IdentityServer.Admin.UI": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\MyProject.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\MyProject.Shared.csproj",
+        "projectName": "MyProject.Shared",
+        "projectPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\MyProject.Shared.csproj",
+        "packagesPath": "C:\\Users\\Niazi Yazadzhiev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niazi Yazadzhiev\\Desktop\\Skoruba\\MyProject\\src\\MyProject.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niazi Yazadzhiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Azure.Extensions.AspNetCore.DataProtection.Keys": {
+              "target": "Package",
+              "version": "[1.2.4, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "Azure.Security.KeyVault.Certificates": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            },
+            "Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Identity": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

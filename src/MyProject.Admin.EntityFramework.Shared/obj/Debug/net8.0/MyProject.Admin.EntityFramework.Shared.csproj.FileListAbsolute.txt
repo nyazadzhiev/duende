@@ -1,0 +1,12 @@
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.deps.json
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.csproj.AssemblyReference.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.AssemblyInfoInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.AssemblyInfo.cs
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\refint\MyProject.Admin.EntityFramework.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.Shared\obj\Debug\net8.0\ref\MyProject.Admin.EntityFramework.Shared.dll

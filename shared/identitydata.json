@@ -1,0 +1,25 @@
+{
+  "IdentityData": {
+    "Roles": [
+      {
+        "Name": "admin"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "PaSkoruba.Duende.IdentityServer.Admin.Templates::2.5.0word123",
+        "Email": "admin@example.com",
+        "Roles": [
+          "admin"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}

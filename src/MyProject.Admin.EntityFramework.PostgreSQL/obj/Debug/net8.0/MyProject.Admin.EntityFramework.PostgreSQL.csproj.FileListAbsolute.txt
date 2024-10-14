@@ -1,0 +1,15 @@
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.deps.json
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.AssemblyInfo.cs
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProjec.3BEB59F0.Up2Date
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\refint\MyProject.Admin.EntityFramework.PostgreSQL.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\MyProject.Admin.EntityFramework.PostgreSQL.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.PostgreSQL\obj\Debug\net8.0\ref\MyProject.Admin.EntityFramework.PostgreSQL.dll

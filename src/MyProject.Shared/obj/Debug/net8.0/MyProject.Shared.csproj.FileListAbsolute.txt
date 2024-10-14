@@ -1,0 +1,12 @@
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\bin\Debug\net8.0\MyProject.Shared.deps.json
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\bin\Debug\net8.0\MyProject.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\bin\Debug\net8.0\MyProject.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.csproj.AssemblyReference.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.AssemblyInfo.cs
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\refint\MyProject.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\MyProject.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Shared\obj\Debug\net8.0\ref\MyProject.Shared.dll

@@ -1,0 +1,15 @@
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\bin\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.deps.json
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\bin\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\bin\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\bin\Debug\net8.0\MyProject.Admin.EntityFramework.Shared.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.AssemblyInfo.cs
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProjec.0D52678E.Up2Date
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\refint\MyProject.Admin.EntityFramework.SqlServer.dll
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\MyProject.Admin.EntityFramework.SqlServer.pdb
+C:\Users\Niazi Yazadzhiev\Desktop\Skoruba\MyProject\src\MyProject.Admin.EntityFramework.SqlServer\obj\Debug\net8.0\ref\MyProject.Admin.EntityFramework.SqlServer.dll
